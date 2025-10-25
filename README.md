@@ -4,6 +4,44 @@
 
 Infrastructure automation expert specializing in cloud architecture, security, and DevOps pipelines. I help organizations—from day-zero startups to Fortune 100 enterprises—build scalable, secure, and cost-effective cloud platforms.
 
+## 💡 Productized Consulting Offers
+
+**Results-driven engagements focused on measurable business impact—not billable hours.**
+
+I partner with you to deliver immediate ROI through outcomes that reduce costs, lower risk, and increase engineering velocity. You only pay based on the value delivered.
+
+### 🎯 Cloud Cost Optimization
+**Pricing**: 5% of annual savings achieved
+
+Eliminate waste and optimize your cloud spend without sacrificing performance. Whether you're managing AWS infrastructure with Terraform, Pulumi, or ClickOps, I work hands-on with your team to:
+- Identify and eliminate unnecessary resources
+- Right-size overprovisioned infrastructure
+- Implement automated cost controls
+- Create detailed project plans with phased execution
+
+**Example**: Reduce $40k/month in AWS spend → $480k annual savings → **$24k engagement fee**
+
+### 🔒 Security Risk Reduction
+**Pricing**: Custom outcomes-based pricing
+
+Lower your organization's security risk in measurable, meaningful ways. I work with any CSPM tool (preferred: Wiz Cloud) to:
+- Automate security findings remediation
+- Implement compliance-as-code frameworks
+- Build automated security controls
+- Reduce critical/high severity findings by 80%+
+
+### 🚀 Terraform Accelerator
+**Pricing**: Fixed-price packages tailored to your stack
+
+Start adopting Infrastructure as Code quickly and securely with a custom implementation designed for your business and technology stack:
+- Complete IaC migration strategy
+- Terraform module development
+- CI/CD pipeline setup
+- Team training and documentation
+- Ongoing optimization support
+
+**Ready to discuss?** Let's talk about your specific challenges → [lanecorey@gmail.com](mailto:lanecorey@gmail.com)
+
 ## 🔧 What I Do
 
 - **Cloud Architecture & Migration**: AWS landing zones, multi-account, multi-region strategies, network design
@@ -30,6 +68,13 @@ I deliver projects across these cloud platforms:
 **AI/ML**: AWS Bedrock • Agno AI Agent Framework • Claude API
 
 ## 🚀 Personal Projects
+
+### [DataRaven](https://dataraven.io/)
+Enterprise data platform for modern cloud infrastructure. Built to deliver intelligent data solutions and analytics at scale.
+
+**Tech**: AWS • Python • Modern Data Stack
+
+**Product**: [dataraven.io/product](https://dataraven.io/product)
 
 ### [ResolverOne](https://resolver.one)
 DNS-based IP geolocation service. Query any IP address via DNS TXT records for instant location data—no API keys, no HTTP overhead.
