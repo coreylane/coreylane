@@ -70,9 +70,9 @@ I deliver projects across these cloud platforms:
 ## 🚀 Personal Projects
 
 ### [DataRaven](https://dataraven.io/)
-Enterprise data platform for modern cloud infrastructure. Built to deliver intelligent data solutions and analytics at scale.
+Cloud-native data transfer SaaS built on rclone. Seamlessly move data between cloud object storage providers (AWS S3, Azure Blob, GCS, Cloudflare R2, Backblaze B2, Wasabi, etc.) with dry run previews, real-time monitoring, and intelligent transfer planning. Supports cloud migrations, disaster recovery, cost optimization (save up to 74% on storage), and compliance/governance workflows.
 
-**Tech**: AWS • Python • Modern Data Stack
+**Tech**: AWS • Python • rclone • Multi-threaded transfers
 
 **Product**: [dataraven.io/product](https://dataraven.io/product)
 
