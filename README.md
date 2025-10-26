@@ -1,10 +1,10 @@
-# Cloud Infrastructure Consulting | [8x](https://www.credly.com/users/coreylane) AWS Certified Solutions Architect
+# Cloud Platform & Automation | Applied AI | [8x](https://www.credly.com/users/coreylane) AWS Certified
 
 **Corey Lane** • [lanecorey@gmail.com](mailto:lanecorey@gmail.com) • The Woodlands, TX
 
-Infrastructure automation expert specializing in cloud architecture, security, and DevOps pipelines. I help organizations—from day-zero startups to Fortune 100 enterprises—build scalable, secure, and cost-effective cloud platforms.
+Infrastructure automation expert specializing in cloud architecture, security, and efficient software delivery. I help organizations—from day-zero startups to Fortune 100 enterprises—build scalable, secure, and cost-effective cloud platforms.
 
-## 💡 Productized Consulting Offers
+## 💡 Cloud Consulting
 
 **Results-driven engagements focused on measurable business impact—not billable hours.**
 
@@ -24,7 +24,7 @@ Eliminate waste and optimize your cloud spend without sacrificing performance. W
 ### 🔒 Security Risk Reduction
 **Pricing**: Custom outcomes-based pricing
 
-Lower your organization's security risk in measurable, meaningful ways. I work with any CSPM tool (preferred: Wiz Cloud) to:
+Lower your organization's security risk in measurable, meaningful ways. I work with any CSPM tool to:
 - Automate security findings remediation
 - Implement compliance-as-code frameworks
 - Build automated security controls
@@ -70,9 +70,9 @@ I deliver projects across these cloud platforms:
 ## 🚀 Personal Projects
 
 ### [DataRaven](https://dataraven.io/)
-Cloud-native data transfer SaaS built on rclone. Seamlessly move data between cloud object storage providers (AWS S3, Azure Blob, GCS, Cloudflare R2, Backblaze B2, Wasabi, etc.) with dry run previews, real-time monitoring, and intelligent transfer planning. Supports cloud migrations, disaster recovery, cost optimization (save up to 74% on storage), and compliance/governance workflows.
+Cloud-native data transfer SaaS built on rclone. Seamlessly move data between cloud object storage providers (AWS S3, Azure Blob, GCS, Cloudflare R2, Backblaze B2, Wasabi, etc.) with dry run previews, real-time monitoring, and intelligent transfer planning. Supports cloud migrations, disaster recovery, cost optimization (save up to 75% on storage), and compliance/governance workflows.
 
-**Tech**: AWS • Python • rclone • Multi-threaded transfers
+**Tech**: Python FastAPI • rclone
 
 **Product**: [dataraven.io/product](https://dataraven.io/product)
 
